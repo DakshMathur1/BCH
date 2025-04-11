@@ -1,0 +1,557 @@
+/* screen - macbook-air-1 */
+
+body{
+  background-image: linear-gradient(90deg, #9C27B0, #673AB7);
+}
+
+.macbook-air-1 {
+  align-items: flex-start;
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  height: 832px;
+  overflow: hidden;
+  width: 1280px;
+}
+
+.macbook-air-1 .navbar {
+  background-color: var(--violet);
+  height: 100px;
+  position: relative;
+  width: 1280px;
+}
+
+.macbook-air-1 .navbar-link-mysubscriptionslist {
+  height: 40px;
+  left: 42px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 28px;
+  width: 349px;
+}
+
+.macbook-air-1 .navbar-link-home-page {
+  height: 40px;
+  left: 384px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  text-decoration: underline;
+  top: 28px;
+  width: 334px;
+}
+
+.macbook-air-1 .navbar-link-notifications {
+  height: 40px;
+  left: 612px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 28px;
+  width: 334px;
+}
+
+.macbook-air-1 .navbar-link-your-account-josh-sanchez {
+  height: 40px;
+  left: 873px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 28px;
+  width: 334px;
+}
+
+.macbook-air-1 .icon-user {
+  height: 34px;
+  left: 1177px;
+  position: absolute;
+  top: 35px;
+  width: 26px;
+}
+
+.macbook-air-1 .iconly-bulk-notification {
+  height: 34px;
+  left: 850px;
+  position: absolute;
+  top: 35px;
+  width: 27px;
+}
+
+.macbook-air-1 .iconly-bulk-home {
+  height: 29px;
+  left: 617px;
+  position: absolute;
+  top: 35px;
+  width: 29px;
+}
+
+.macbook-air-1 .overlap-group1 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  min-height: 734px;
+  width: 1280px;
+}
+
+.macbook-air-1 .your-subscriptions {
+  height: 61px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-right: 27.0px;
+  margin-top: 59px;
+  text-align: center;
+  width: 503px;
+}
+
+.macbook-air-1 .flex-row {
+  align-items: flex-end;
+  display: flex;
+  margin-left: 16.0px;
+  margin-top: 42px;
+  min-width: 1118px;
+}
+
+.macbook-air-1 .overlap-group8 {
+  height: 41px;
+  position: relative;
+  width: 407px;
+}
+
+.macbook-air-1 .sort-by {
+  height: 40px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 334px;
+}
+
+.macbook-air-1 .rectangle-6 {
+  background-color: var(--cararra);
+  border: 1px none;
+  border-radius: 22px;
+  height: 40px;
+  left: 78px;
+  position: absolute;
+  top: 1px;
+  width: 329px;
+}
+
+.macbook-air-1 .proximity-of-subscription-payment-day {
+  height: 40px;
+  left: 94px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 313px;
+}
+
+.macbook-air-1 .line-3 {
+  height: 12px;
+  left: 368px;
+  object-fit: cover;
+  position: absolute;
+  top: 16px;
+  width: 14px;
+}
+
+.macbook-air-1 .line-4 {
+  height: 12px;
+  left: 380px;
+  object-fit: cover;
+  position: absolute;
+  top: 16px;
+  width: 12px;
+}
+
+.macbook-air-1 .find-a-subscription {
+  align-items: flex-start;
+  border: 1px none;
+  display: flex;
+  height: 40px;
+  margin-left: 28px;
+  min-width: 190px;
+}
+
+.macbook-air-1 .overlap-group {
+  height: 41px;
+  margin-top: -1px;
+  position: relative;
+  width: 369px;
+}
+
+.macbook-air-1 .find-a-subscription-1 {
+  height: 40px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 190px;
+}
+
+.macbook-air-1 .rectangle-7 {
+  background-color: var(--cararra);
+  border: 1px none;
+  border-radius: 22px;
+  height: 40px;
+  left: 168px;
+  position: absolute;
+  top: 1px;
+  width: 201px;
+}
+
+.macbook-air-1 .icon-search {
+  align-self: center;
+  height: 24px;
+  margin-left: 140px;
+  margin-top: 1.0px;
+  width: 24px;
+}
+
+.macbook-air-1 .overlap-group3 {
+  height: 40px;
+  margin-left: 56px;
+  position: relative;
+  width: 273px;
+}
+
+.macbook-air-1 .find-a-subscription-2 {
+  align-items: flex-start;
+  border: 1px none;
+  display: flex;
+  height: 40px;
+  left: 0;
+  min-width: 273px;
+  position: absolute;
+  top: 0;
+}
+
+.macbook-air-1 .find-a-subscription-3 {
+  height: 40px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  width: 273px;
+}
+
+.macbook-air-1 .iconly-bulk-edit {
+  height: 27px;
+  left: 227px;
+  position: absolute;
+  top: 5px;
+  width: 27px;
+}
+
+.macbook-air-1 .overlap-group-container {
+  align-items: center;
+  display: flex;
+  margin-top: 14px;
+  min-width: 1112px;
+}
+
+.macbook-air-1 .overlap-group9 {
+  height: 327px;
+  position: relative;
+  width: 1041px;
+}
+
+.macbook-air-1 .overlap-group7 {
+  height: 221px;
+  left: 0;
+  position: absolute;
+  top: 26px;
+  width: 485px;
+}
+
+.macbook-air-1 .rectangle-3 {
+  background-color: var(--asphalt);
+  border: 2px solid;
+  border-color: var(--white);
+  height: 179px;
+  left: 15px;
+  position: absolute;
+  top: 42px;
+  width: 223px;
+}
+
+.macbook-air-1 .logonetflix-1 {
+  height: 126px;
+  left: 44px;
+  position: absolute;
+  top: 69px;
+  width: 164px;
+}
+
+.macbook-air-1 .click-here-for-more {
+  height: 38px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 177px;
+  width: 262px;
+}
+
+.macbook-air-1 .number {
+  height: 43px;
+  left: 110px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 33px;
+}
+
+.macbook-air-1 .number-1 {
+  height: 43px;
+  left: 350px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 33px;
+}
+
+.macbook-air-1 .rectangle-3-1 {
+  background-color: var(--hawkes-blue);
+  border: 1px none;
+  height: 179px;
+  left: 261px;
+  position: absolute;
+  top: 42px;
+  width: 224px;
+}
+
+.macbook-air-1 .prime-video-1 {
+  height: 125px;
+  left: 273px;
+  position: absolute;
+  top: 69px;
+  width: 200px;
+}
+
+.macbook-air-1 .overlap-group6 {
+  height: 229px;
+  left: 504px;
+  position: absolute;
+  top: 26px;
+  width: 224px;
+}
+
+.macbook-air-1 .rectangle-4 {
+  background-color: var(--black-2);
+  border: 1px none;
+  height: 179px;
+  left: 0;
+  position: absolute;
+  top: 42px;
+  width: 224px;
+}
+
+.macbook-air-1 .spotify_-logo_cmyk_-green-1 {
+  height: 195px;
+  left: 19px;
+  position: absolute;
+  top: 34px;
+  width: 185px;
+}
+
+.macbook-air-1 .number-2 {
+  height: 43px;
+  left: 93px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 33px;
+}
+
+.macbook-air-1 .overlap-group5 {
+  height: 327px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 992px;
+}
+
+.macbook-air-1 .rectangle-5 {
+  background-color: var(--spray);
+  border: 1px none;
+  height: 179px;
+  left: 746px;
+  position: absolute;
+  top: 68px;
+  width: 224px;
+}
+
+.macbook-air-1 .disney_logo-1 {
+  height: 288px;
+  left: 759px;
+  position: absolute;
+  top: 0;
+  width: 198px;
+}
+
+.macbook-air-1 .number-3 {
+  height: 43px;
+  left: 841px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 26px;
+  width: 33px;
+}
+
+.macbook-air-1 .next-subscription-payment-in-3-days {
+  height: 38px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 256px;
+  width: 262px;
+}
+
+.macbook-air-1 .payment-date-29-nov-2023 {
+  height: 38px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 289px;
+  width: 262px;
+}
+
+.macbook-air-1 .next-subscription-payment-in-5-days {
+  height: 38px;
+  left: 242px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 256px;
+  width: 262px;
+}
+
+.macbook-air-1 .payment-date-1-dec-2023 {
+  height: 38px;
+  left: 242px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 289px;
+  width: 262px;
+}
+
+.macbook-air-1 .next-subscription-payment-in-5-days-1 {
+  height: 38px;
+  left: 485px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 256px;
+  width: 262px;
+}
+
+.macbook-air-1 .payment-date-1-dec-2023-1 {
+  height: 38px;
+  left: 485px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 289px;
+  width: 262px;
+}
+
+.macbook-air-1 .next-subscription-payment-in-one-week {
+  height: 38px;
+  left: 730px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 256px;
+  width: 262px;
+}
+
+.macbook-air-1 .payment-date-3-dec-2023 {
+  height: 38px;
+  left: 727px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 289px;
+  width: 262px;
+}
+
+.macbook-air-1 .rectangle-8 {
+  background-color: var(--quill-gray);
+  border: 1px none;
+  height: 179px;
+  left: 989px;
+  position: absolute;
+  top: 68px;
+  width: 52px;
+}
+
+.macbook-air-1 .overlap-group4 {
+  height: 179px;
+  margin-bottom: 12.0px;
+  position: relative;
+  width: 71px;
+}
+
+.macbook-air-1 .line-1 {
+  height: 34px;
+  left: 20px;
+  object-fit: cover;
+  position: absolute;
+  top: 57px;
+  width: 33px;
+}
+
+.macbook-air-1 .line-2 {
+  height: 30px;
+  left: 19px;
+  object-fit: cover;
+  position: absolute;
+  top: 90px;
+  width: 33px;
+}
+
+.macbook-air-1 .rectangle-7-1 {
+  background-color: var(--spray-2);
+  border: 1px none;
+  height: 179px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 71px;
+}
+
+.macbook-air-1 .rectangle-9 {
+  background-color: var(--silver);
+  border: 1px none;
+  height: 100px;
+  margin-top: 90px;
+  width: 1280px;
+}

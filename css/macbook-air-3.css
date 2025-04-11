@@ -1,0 +1,546 @@
+/* screen - macbook-air-3 */
+
+.macbook-air-3 {
+  align-items: flex-start;
+  background-color: var(--bossanova);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  height: 832px;
+  overflow: hidden;
+  width: 1280px;
+}
+
+.macbook-air-3 .navbar {
+  background-color: var(--violet);
+  height: 100px;
+  position: relative;
+  width: 1280px;
+}
+
+.macbook-air-3 .navbar-link-mysubscriptionslist {
+  height: 40px;
+  left: 37px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 29px;
+  width: 349px;
+}
+
+.macbook-air-3 .navbar-link-home-page {
+  height: 40px;
+  left: 380px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  text-decoration: underline;
+  top: 29px;
+  width: 334px;
+}
+
+.macbook-air-3 .navbar-link-notifications {
+  height: 40px;
+  left: 608px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 29px;
+  width: 334px;
+}
+
+.macbook-air-3 .navbar-link-your-account-josh-sanchez {
+  height: 40px;
+  left: 869px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 29px;
+  width: 334px;
+}
+
+.macbook-air-3 .icon-user {
+  height: 34px;
+  left: 1173px;
+  position: absolute;
+  top: 36px;
+  width: 26px;
+}
+
+.macbook-air-3 .iconly-bulk-notification {
+  height: 34px;
+  left: 846px;
+  position: absolute;
+  top: 36px;
+  width: 27px;
+}
+
+.macbook-air-3 .iconly-bulk-home {
+  height: 29px;
+  left: 613px;
+  position: absolute;
+  top: 36px;
+  width: 29px;
+}
+
+.macbook-air-3 .overlap-group1 {
+  height: 734px;
+  position: relative;
+  width: 1280px;
+}
+
+.macbook-air-3 .rectangle-1 {
+  background-color: var(--purple-heart);
+  border: 1px none;
+  height: 732px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1280px;
+}
+
+.macbook-air-3 .rectangle-3 {
+  background-color: var(--asphalt);
+  border: 2px solid;
+  border-color: var(--white);
+  height: 179px;
+  left: 99px;
+  position: absolute;
+  top: 285px;
+  width: 223px;
+}
+
+.macbook-air-3 .logonetflix-1 {
+  height: 126px;
+  left: 128px;
+  position: absolute;
+  top: 312px;
+  width: 164px;
+}
+
+.macbook-air-3 .rectangle-4 {
+  background-color: var(--black-2);
+  border: 1px none;
+  height: 179px;
+  left: 583px;
+  position: absolute;
+  top: 285px;
+  width: 228px;
+}
+
+.macbook-air-3 .spotify_-logo_cmyk_-green-1 {
+  height: 195px;
+  left: 607px;
+  position: absolute;
+  top: 269px;
+  width: 185px;
+}
+
+.macbook-air-3 .rectangle-5 {
+  background-color: var(--spray);
+  border: 1px none;
+  height: 179px;
+  left: 341px;
+  position: absolute;
+  top: 285px;
+  width: 224px;
+}
+
+.macbook-air-3 .disney_logo-1 {
+  height: 288px;
+  left: 354px;
+  position: absolute;
+  top: 215px;
+  width: 198px;
+}
+
+.macbook-air-3 .line-1 {
+  height: 34px;
+  left: 1145px;
+  object-fit: cover;
+  position: absolute;
+  top: 342px;
+  width: 33px;
+}
+
+.macbook-air-3 .line-2 {
+  height: 30px;
+  left: 1144px;
+  object-fit: cover;
+  position: absolute;
+  top: 375px;
+  width: 33px;
+}
+
+.macbook-air-3 .click-here-to-manage {
+  height: 38px;
+  left: 84px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 420px;
+  width: 262px;
+}
+
+.macbook-air-3 .sort-by {
+  height: 40px;
+  left: 89px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 162px;
+  width: 334px;
+}
+
+.macbook-air-3 .rectangle-6 {
+  background-color: var(--cararra);
+  border: 1px none;
+  border-radius: 22px;
+  height: 40px;
+  left: 177px;
+  position: absolute;
+  top: 163px;
+  width: 319px;
+}
+
+.macbook-air-3 .your-subscriptions {
+  height: 61px;
+  left: 375px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 59px;
+  width: 503px;
+}
+
+.macbook-air-3 .rectangle-7 {
+  background-color: var(--spray-2);
+  border: 1px none;
+  height: 179px;
+  left: 1125px;
+  position: absolute;
+  top: 285px;
+  width: 71px;
+}
+
+.macbook-air-3 .subscription-price-high-to-low {
+  height: 40px;
+  left: 193px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 162px;
+  width: 248px;
+}
+
+.macbook-air-3 .line-3 {
+  height: 12px;
+  left: 457px;
+  object-fit: cover;
+  position: absolute;
+  top: 178px;
+  width: 14px;
+}
+
+.macbook-air-3 .line-4 {
+  height: 12px;
+  left: 469px;
+  object-fit: cover;
+  position: absolute;
+  top: 178px;
+  width: 12px;
+}
+
+.macbook-air-3 .number {
+  height: 43px;
+  left: 194px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 243px;
+  width: 33px;
+}
+
+.macbook-air-3 .number-1 {
+  height: 43px;
+  left: 437px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 243px;
+  width: 33px;
+}
+
+.macbook-air-3 .number-2 {
+  height: 43px;
+  left: 681px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 243px;
+  width: 33px;
+}
+
+.macbook-air-3 .number-3 {
+  height: 43px;
+  left: 925px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 243px;
+  width: 33px;
+}
+
+.macbook-air-3 .subscription-price {
+  height: 38px;
+  left: 84px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 473px;
+  width: 262px;
+}
+
+.macbook-air-3 .x1549month {
+  height: 38px;
+  left: 84px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 497px;
+  width: 262px;
+}
+
+.macbook-air-3 .rectangle-8 {
+  background-color: var(--quill-gray);
+  border: 1px none;
+  height: 179px;
+  left: 1073px;
+  position: absolute;
+  top: 285px;
+  width: 52px;
+}
+
+.macbook-air-3 .subscription-price-1 {
+  height: 38px;
+  left: 326px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 473px;
+  width: 262px;
+}
+
+.macbook-air-3 .subscription-price-2 {
+  height: 38px;
+  left: 569px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 473px;
+  width: 262px;
+}
+
+.macbook-air-3 .student-plan {
+  height: 38px;
+  left: 569px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 514px;
+  width: 262px;
+}
+
+.macbook-air-3 .subscription-price-3 {
+  height: 17px;
+  left: 812px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 484px;
+  width: 262px;
+}
+
+.macbook-air-3 .x499month {
+  height: 38px;
+  left: 811px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 497px;
+  width: 262px;
+}
+
+.macbook-air-3 .rectangle-9 {
+  background-color: var(--silver);
+  border: 1px none;
+  height: 100px;
+  left: 0;
+  position: absolute;
+  top: 634px;
+  width: 1280px;
+}
+
+.macbook-air-3 .rectangle-3-1 {
+  background-color: var(--hawkes-blue);
+  border: 1px none;
+  height: 179px;
+  left: 828px;
+  position: absolute;
+  top: 285px;
+  width: 227px;
+}
+
+.macbook-air-3 .prime-video-1 {
+  height: 125px;
+  left: 842px;
+  position: absolute;
+  top: 312px;
+  width: 200px;
+}
+
+.macbook-air-3 .standard-plan {
+  height: 38px;
+  left: 84px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 514px;
+  width: 262px;
+}
+
+.macbook-air-3 .x1199month {
+  height: 38px;
+  left: 330px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 497px;
+  width: 262px;
+}
+
+.macbook-air-3 .basic-plan {
+  height: 38px;
+  left: 330px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 514px;
+  width: 262px;
+}
+
+.macbook-air-3 .x749month {
+  height: 38px;
+  left: 573px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 497px;
+  width: 262px;
+}
+
+.macbook-air-3 .student-plan-1 {
+  height: 17px;
+  left: 811px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 525px;
+  width: 262px;
+}
+
+.macbook-air-3 .find-a-subscription {
+  align-items: flex-start;
+  border: 1px none;
+  display: flex;
+  height: 40px;
+  left: 525px;
+  min-width: 190px;
+  position: absolute;
+  top: 163px;
+}
+
+.macbook-air-3 .overlap-group {
+  height: 41px;
+  margin-top: -1px;
+  position: relative;
+  width: 369px;
+}
+
+.macbook-air-3 .find-a-subscription-1 {
+  height: 40px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 190px;
+}
+
+.macbook-air-3 .rectangle-7-1 {
+  background-color: var(--cararra);
+  border: 1px none;
+  border-radius: 22px;
+  height: 40px;
+  left: 168px;
+  position: absolute;
+  top: 1px;
+  width: 201px;
+}
+
+.macbook-air-3 .icon-search {
+  height: 24px;
+  left: 854px;
+  position: absolute;
+  top: 171px;
+  width: 24px;
+}
+
+.macbook-air-3 .find-a-subscription-2 {
+  align-items: flex-start;
+  border: 1px none;
+  display: flex;
+  height: 40px;
+  left: 943px;
+  min-width: 261px;
+  position: absolute;
+  top: 163px;
+}
+
+.macbook-air-3 .find-a-subscription-3 {
+  height: 40px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  width: 261px;
+}
+
+.macbook-air-3 .iconly-bulk-edit {
+  height: 27px;
+  left: 1170px;
+  position: absolute;
+  top: 168px;
+  width: 27px;
+}

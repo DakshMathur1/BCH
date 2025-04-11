@@ -1,0 +1,230 @@
+/* screen - macbook-air-10 */
+
+body{
+    background-image: linear-gradient(90deg, #9C27B0, #673AB7);
+}
+
+.macbook-air-10 {
+  align-items: flex-start;
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  height: 832px;
+  overflow: hidden;
+  width: 1280px;
+}
+
+.macbook-air-10 .navbar {
+  background-color: var(--violet);
+  height: 100px;
+  position: relative;
+  width: 1280px;
+}
+
+.macbook-air-10 .navbar-link-mysubscriptionslist {
+  height: 40px;
+  left: 42px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 28px;
+  width: 349px;
+}
+
+.macbook-air-10 .navbar-link-home-page {
+  height: 40px;
+  left: 384px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  text-decoration: underline;
+  top: 28px;
+  width: 334px;
+}
+
+.macbook-air-10 .navbar-link-notifications {
+  height: 40px;
+  left: 612px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 28px;
+  width: 334px;
+}
+
+.macbook-air-10 .navbar-link-your-account-josh-sanchez {
+  height: 40px;
+  left: 873px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 28px;
+  width: 334px;
+}
+
+.macbook-air-10 .icon-user {
+  height: 34px;
+  left: 1177px;
+  position: absolute;
+  top: 35px;
+  width: 26px;
+}
+
+.macbook-air-10 .iconly-bulk-notification {
+  height: 34px;
+  left: 850px;
+  position: absolute;
+  top: 35px;
+  width: 27px;
+}
+
+.macbook-air-10 .iconly-bulk-home {
+  height: 29px;
+  left: 617px;
+  position: absolute;
+  top: 35px;
+  width: 29px;
+}
+
+.macbook-air-10 .overlap-group {
+  height: 734px;
+  margin-left: -35px;
+  position: relative;
+  width: 1315px;
+}
+
+.macbook-air-10 .rectangle-1 {
+  border: 1px none;
+  height: 732px;
+  left: 35px;
+  position: absolute;
+  top: 0;
+  width: 1280px;
+}
+
+.macbook-air-10 .title {
+  height: 61px;
+  left: 410px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 59px;
+  width: 503px;
+}
+
+.macbook-air-10 .rectangle-9 {
+  border: 1px none;
+  height: 100px;
+  left: 35px;
+  position: absolute;
+  top: 634px;
+  width: 1280px;
+}
+
+.macbook-air-10 .line-16 {
+  height: 1px;
+  left: 239px;
+  object-fit: cover;
+  position: absolute;
+  top: 323px;
+  width: 885px;
+}
+
+.macbook-air-10 .rectangle-3 {
+  background-color: var(--asphalt);
+  border: 2px solid;
+  border-color: transparent;
+  border-radius: 42px;
+  height: 71px;
+  left: 302px;
+  position: absolute;
+  top: 231px;
+  width: 133px;
+}
+
+.macbook-air-10 .logonetflix-1 {
+  height: 46px;
+  left: 321px;
+  position: absolute;
+  top: 244px;
+  width: 94px;
+}
+
+.macbook-air-10 .line-17 {
+  height: 4px;
+  left: 239px;
+  object-fit: cover;
+  position: absolute;
+  top: 428px;
+  width: 885px;
+}
+
+.macbook-air-10 .rectangle-10 {
+  background-color: #d3def2;
+  border: 2px solid;
+  border-color: transparent;
+  border-radius: 42px;
+  height: 64px;
+  left: 302px;
+  position: absolute;
+  top: 343px;
+  width: 133px;
+}
+
+.macbook-air-10 .prime-video-1 {
+  height: 54px;
+  left: 328px;
+  position: absolute;
+  top: 348px;
+  width: 81px;
+}
+
+.macbook-air-10 .you-have-a-subscript {
+  color: var(--white);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-xxl);
+  font-weight: 300;
+  height: 64px;
+  left: 435px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 240px;
+  width: 705px;
+}
+
+.macbook-air-10 .you-have-a-subscript-1 {
+  color: var(--white);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-xxl);
+  font-weight: 300;
+  height: 64px;
+  left: 435px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 342px;
+  width: 705px;
+}
+
+.macbook-air-10 .sorted-by-most-recent {
+  color: var(--cararra);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-xl);
+  font-weight: 500;
+  height: 43px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 142px;
+  width: 492px;
+}
