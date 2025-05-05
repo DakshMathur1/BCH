@@ -1,6 +1,6 @@
 # ScriptO - Subscription Management Made Simple
 
-**Watch the [Final.mp4](Final.mp4) video (you have to open this in an IDE like VSCode to view it) for a demonstration of ScriptO in action!**
+**Watch the [Final.mp4](Final.mp4) video (you will have to open this in a video playing app to view and hear the content) for a demonstration of ScriptO in action!**
 
 ## Inspiration
 
